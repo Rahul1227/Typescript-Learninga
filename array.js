@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+// const numsArr:number[]=[];
+var numsArr = [];
+numsArr.push(2);
+numsArr.push(3);
+numsArr.push(90);
+console.log(numsArr);
+var allUsers = [];
+allUsers.push({ name: 'rahul', age: 45 });
+console.log(allUsers);
