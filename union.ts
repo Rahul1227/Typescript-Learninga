@@ -24,4 +24,5 @@ name='rahul';
 
 // name='sushant';
 
-
+let num:number;
+num=90;

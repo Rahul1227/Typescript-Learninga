@@ -9,3 +9,5 @@ var person = {
 var name;
 name = 'rahul';
 // name='sushant';
+var num;
+num = 90;
